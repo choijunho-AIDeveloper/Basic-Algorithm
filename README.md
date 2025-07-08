@@ -1,6 +1,6 @@
-# Basic Algorithm & Data Structure Study
+# Algorithm & Data Structure Study
 
-This repository contains Python code for solving various algorithm and data structure problems, primarily from the Baekjoon Online Judge. It serves as a personal study log for implementing and understanding core computer science concepts.
+This repository contains Python code for solving various algorithm and data structure problems, primarily from the Baekjoon Online Judge. It serves as a personal study log for PS
 
 
 ## Directory Structure
