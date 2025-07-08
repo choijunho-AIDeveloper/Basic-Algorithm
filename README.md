@@ -1,33 +1,31 @@
-# 📚 Basic Algorithm & Data Structure Study
+# Basic Algorithm & Data Structure Study
 
 This repository contains Python code for solving various algorithm and data structure problems, primarily from the Baekjoon Online Judge. It serves as a personal study log for implementing and understanding core computer science concepts.
 
----
 
-## 📂 Directory Structure
+## Directory Structure
 
 The repository is organized into two main categories: `Algorithm` and `DataStructure`. Each category contains subdirectories for specific topics, which in turn hold the Python source code for solved problems.
 
----
 
 ## TOC
 
-### 🧠 Algorithms
+### Algorithms
 
-*   [Binary Search](#binary-search)
-*   [Brute Force](#brute-force)
-*   [DFS/BFS](#dfsbfs)
-*   [Greedy](#greedy)
-*   [Prefix Sum Array](#prefix-sum-array)
-*   [Sorting](#sorting)
-*   [Two Pointers](#two-pointers)
+*   [Binary Search](Algorithm/BinarySearchAlgorithm/)
+*   [Brute Force](Algorithm/BruteForceAlgorithm/)
+*   [DFS/BFS](Algorithm/DFSBFS/)
+*   [Greedy](Algorithm/GreedyAlgorithm/)
+*   [Prefix Sum Array](Algorithm/PrefixSumArray/)
+*   [Sorting](Algorithm/SortingAlgorithm/)
+*   [Two Pointers](Algorithm/TwoPointerAligorithm/)
 
-### 🏗️ Data Structures
+### Data Structures
 
-*   [Graph](#graph)
-*   [Hash](#hash)
-*   [List](#list)
-*   [Priority Queue](#priority-queue)
-*   [Queue](#queue)
-*   [Stack](#stack)
-*   [Tree](#tree)
+*   [Graph](DataStructure/Graph/)
+*   [Hash](DataStructure/Hash/)
+*   [List](DataStructure/List/)
+*   [Priority Queue](DataStructure/Priority_Queue/)
+*   [Queue](DataStructure/Queue/)
+*   [Stack](DataStructure/Stack/)
+*   [Tree](DataStructure/Tree/)
