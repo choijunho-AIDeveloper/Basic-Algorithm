@@ -18,4 +18,4 @@ def dfs(idx, result):
 dfs(0, [])
 print(results)
 # Expected Output : 3 + 9 + 27 = 39
-# print(len(results))
+print(len(results))
