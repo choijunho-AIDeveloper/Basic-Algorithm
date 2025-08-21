@@ -1,7 +1,3 @@
-# Input
-'''
-What to print all or seperate element, which divided by combination with repetition
-'''
 inp = ["a", "b", "c"]
 results = []
 

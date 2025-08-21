@@ -1,4 +1,4 @@
-class combinators:
+class Combinators:
     def __init__(self, strList, returnLength):
         self.strList = strList
         self.returnLength = returnLength
@@ -69,7 +69,7 @@ class combinators:
 
 
 if __name__ == "__main__":
-    combinator = combinators(["a", "b", "c"], 2)
+    combinator = Combinators(["a", "b", "c"], 2)
     print(combinator.combination())
     print(combinator.combinationWithRepetition())
     print(combinator.permutation())
